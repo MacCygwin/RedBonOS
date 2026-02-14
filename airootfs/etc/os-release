@@ -1,0 +1,9 @@
+NAME="RedBonOS"
+VERSION="1.0"
+ID=arch
+PRETTY_NAME="RedBonOS"
+ANSI_COLOR="0;31"        
+HOME_URL="https://mylatjit.godaddysites.com"
+SUPPORT_URL="https://github.com/MacCygwin/RedBonOS/issues"
+BUG_REPORT_URL="https://github.com/MacCygwin/RedBonOS/issues"
+

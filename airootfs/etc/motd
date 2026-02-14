@@ -1,0 +1,10 @@
+To install [38;2;255;50;50mRedBonOS[0m (Arch Linux), run the installer:
+[38;2;0;255;255mredbon-install[0m
+
+This live environment can be used for system rescue,
+recovery, and diagnostics.
+
+Networking via Ethernet should work automatically.
+For Wi-Fi, authenticate using the [38;2;0;255;255miwctl[0m utility.
+
+
